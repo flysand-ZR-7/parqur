@@ -26,7 +26,7 @@
 - [x] Task 4.3: Owner settlement calculation engine
 
 ## Milestone 5: Web Admin Dashboard (Next.js)
-- [ ] Task 5.1: Next.js 14 Web Admin dashboard setup
-- [ ] Task 5.2: Verification Queue for TrustGate inspections and KYC approvals
-- [ ] Task 5.3: Territory management map and mediator assignment visualizer
-- [ ] Task 5.4: Transaction monitor, fraud alerts & payout approval console
+- [x] Task 5.1: Next.js 14 Web Admin dashboard setup
+- [x] Task 5.2: Verification Queue for TrustGate inspections and KYC approvals
+- [x] Task 5.3: Territory management map and mediator assignment visualizer
+- [x] Task 5.4: Transaction monitor, fraud alerts & payout approval console
