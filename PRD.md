@@ -8,12 +8,12 @@
 - [ ] Task 1.4: Implement shared TypeScript definitions and business validation rules (`packages/shared`)
 
 ## Milestone 2: Mobile App Scaffolding (Expo React Native)
-- [ ] Task 2.1: Initialize Expo cross-platform mobile structure with Expo Router
-- [ ] Task 2.2: Setup Auth and Role routing (Driver / Owner / Mediator)
-- [ ] Task 2.3: Build Driver Discovery UI with Map View, Radius Search & Filters
-- [ ] Task 2.4: Build Driver Booking Flow & Digital QR Pass generation
-- [ ] Task 2.5: Build Parking Owner Space Listing & Check-in QR Scanner
-- [ ] Task 2.6: Build Mediator Territory Mapping & Referral Onboarding UI
+- [x] Task 2.1: Initialize Expo cross-platform mobile structure with Expo Router
+- [x] Task 2.2: Setup Auth and Role routing (Driver / Owner / Mediator)
+- [x] Task 2.3: Build Driver Discovery UI with Map View, Radius Search & Filters
+- [x] Task 2.4: Build Driver Booking Flow & Digital QR Pass generation
+- [x] Task 2.5: Build Parking Owner Space Listing & Check-in QR Scanner
+- [x] Task 2.6: Build Mediator Territory Mapping & Referral Onboarding UI
 
 ## Milestone 3: TrustGate & Verification Engine
 - [ ] Task 3.1: KYC submission pipeline for Owners & Mediators

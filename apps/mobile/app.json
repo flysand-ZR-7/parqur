@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "PARQUR",
+    "slug": "parqur",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "parqur",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#0F5132"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.parqur.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0F5132"
+      },
+      "package": "com.parqur.app",
+      "permissions": [
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION",
+        "CAMERA"
+      ]
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Allow PARQUR to discover nearby verified parking spaces and validate check-ins."
+        }
+      ],
+      [
+        "expo-barcode-scanner",
+        {
+          "cameraPermission": "Allow PARQUR to scan entry and exit parking QR passes."
+        }
+      ]
+    ]
+  }
+}
