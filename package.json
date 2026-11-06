@@ -1,0 +1,16 @@
+{
+  "name": "parqur-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "npm run --workspaces build",
+    "lint": "npm run --workspaces lint"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}
