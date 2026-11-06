@@ -16,14 +16,14 @@
 - [x] Task 2.6: Build Mediator Territory Mapping & Referral Onboarding UI
 
 ## Milestone 3: TrustGate & Verification Engine
-- [ ] Task 3.1: KYC submission pipeline for Owners & Mediators
-- [ ] Task 3.2: Automated & manual listing approval workflow
-- [ ] Task 3.3: High-value vehicle entry logging & condition photos
+- [x] Task 3.1: KYC submission pipeline for Owners & Mediators
+- [x] Task 3.2: Automated & manual listing approval workflow
+- [x] Task 3.3: High-value vehicle entry logging & condition photos
 
 ## Milestone 4: Financial & Commission Engine
-- [ ] Task 4.1: Razorpay payment gateway integration
-- [ ] Task 4.2: Automated 5% Mediator recurring commission engine & payout tracker
-- [ ] Task 4.3: Owner settlement calculation engine
+- [x] Task 4.1: Razorpay payment gateway integration
+- [x] Task 4.2: Automated 5% Mediator recurring commission engine & payout tracker
+- [x] Task 4.3: Owner settlement calculation engine
 
 ## Milestone 5: Web Admin Dashboard (Next.js)
 - [ ] Task 5.1: Next.js 14 Web Admin dashboard setup
