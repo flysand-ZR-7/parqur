@@ -3,9 +3,9 @@
 
 ## Milestone 1: Core Foundation & Data Architecture (MVP P0)
 - [x] Task 1.1: Initialize workspace monorepo & git architecture
-- [ ] Task 1.2: Design PostGIS-enabled relational schema (Users, Spots, Bookings, Mediators, TrustGate KYC)
-- [ ] Task 1.3: Create SQL migration scripts with Row Level Security (RLS) policies
-- [ ] Task 1.4: Implement shared TypeScript definitions and business validation rules (`packages/shared`)
+- [x] Task 1.2: Design PostGIS-enabled relational schema (Users, Spots, Bookings, Mediators, TrustGate KYC)
+- [x] Task 1.3: Create SQL migration scripts with Row Level Security (RLS) policies
+- [x] Task 1.4: Implement shared TypeScript definitions and business validation rules (`packages/shared`)
 
 ## Milestone 2: Mobile App Scaffolding (Expo React Native)
 - [x] Task 2.1: Initialize Expo cross-platform mobile structure with Expo Router
